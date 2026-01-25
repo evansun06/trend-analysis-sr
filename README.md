@@ -24,7 +24,7 @@ Rather than optimizing for a single “best” model, this repository focuses on
 
 ## Open Datasets
 
-To support reproducibility and independent analysis, this repository provides **three curated datasets**, released freely for public use.
+To support reproducibility and independent analysis, please access the three datasets i've collected [here](https://www.kaggle.com/datasets/esvansun06/sr-trend-analysis/data/settings/settings/settings), released freely for public use.
 
 Each dataset includes:
 - RSS article metadata and timestamps
