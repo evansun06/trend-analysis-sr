@@ -1,6 +1,12 @@
 [//]: # (Project README for SR data analysis)
 # Trend Analysis of News Stories for SightRead
 
+<p align="center">
+	<img src="assets/initial_plot.png" alt="initial plot (Jan 5th 2026 - Jan 12th 2026)" width="1080" />
+</p>
+
+*Figure: Clusters based on news reporting during January 5th - January 12th* 
+
 ## Project Goals & Research Questions
 
 This repository explores the viability of unsupervised learning techniques for **trend detection in large-scale news corpora**, with direct application to the SightRead reading platform.

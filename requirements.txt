@@ -1,4 +1,10 @@
+numpy==2.3.3
 pandas
 scikit-learn
-numpy
-ipykernel 
+numba>=0.59
+umap-learn
+hdbscan
+matplotlib
+ipykernel
+plotly
+nbformat>=4.2.0
